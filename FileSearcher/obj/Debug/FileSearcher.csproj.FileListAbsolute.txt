@@ -1,0 +1,33 @@
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojAssemblyReference.cache
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.MainWindow.resources
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.cache
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\Asef\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.MainWindow.resources
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.cache
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.pdb
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\bin\Debug\MessageBoxManager.dll
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\bin\Debug\MessageBoxManager.pdb
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csproj.CopyComplete
+C:\Users\Asef\Desktop\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csprojAssemblyReference.cache
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\bin\Debug\FileSearcher.exe
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\bin\Debug\FileSearcher.pdb
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\bin\Debug\MessageBoxManager.dll
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\bin\Debug\MessageBoxManager.pdb
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csprojAssemblyReference.cache
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.MainWindow.resources
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.cache
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csproj.CoreCompileInputs.cache
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.csproj.CopyComplete
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.exe
+G:\asef\Delevopment\C# Windows Form\پیدا کننده\FileSearcher\obj\Debug\FileSearcher.pdb
